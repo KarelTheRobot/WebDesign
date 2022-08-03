@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(255, 0, 255);
+}
+
+p {
+    font-weight: bold;
+    text-align: center;
+}
+
+li {
+    font-size: 30pt;
+}
+
+#aboutmeheader {
+    color: #f68eff;
+    font-size: 100pt;
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+
+.food {
+    color: green;
+}
+
+.location {
+    color: rgb(67, 38, 0);
+}
+
+#myname {
+    font-size: 20pt;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*
+
+
+note
+
+*/
