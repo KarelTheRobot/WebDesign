@@ -1,0 +1,1 @@
+This is a project folder for a class I am teaching related to web design.
